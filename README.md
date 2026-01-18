@@ -122,5 +122,5 @@ kubectl apply -f argocd/application.yaml
 
 ---
 
-## 🧠 Interview Summary
+## 🧠 Summary
 This project showcases real-world Kubernetes platform engineering using Terraform, GitOps, ingress, and observability.
